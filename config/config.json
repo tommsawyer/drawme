@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "midnight",
+    "password": null,
+    "database": "drawme",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "midnight",
+    "password": null,
+    "database": "drawme",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "midnight",
+    "password": null,
+    "database": "drawme",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
